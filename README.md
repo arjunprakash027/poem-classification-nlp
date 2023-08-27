@@ -1,5 +1,5 @@
 ---
-
+## View the medium blog here -> https://medium.com/@arjunprakash027/unveiling-the-poetic-patterns-journey-into-poem-classification-using-k-means-clustering-ec296984f071?source=friends_link&sk=fa8f1e3756663907ceb8c547ee8fb488
 # Poetry Classification Using K-means Algorithm
 
 Welcome to the Poetry Classification project, where we explore the fascinating world of clustering poems based on their themes and emotions using the K-means algorithm. This repository contains the code and insights from our exploration.
